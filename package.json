@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "mysql": "^2.18.1"
+  },
+  "name": "datafetchnodejs",
+  "version": "1.0.0",
+  "description": "Node Js project for CRUD",
+  "main": "index.js",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon src/index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "yes"
+  },
+  "author": "Ramesh Sen",
+  "license": "ISC"
+}
